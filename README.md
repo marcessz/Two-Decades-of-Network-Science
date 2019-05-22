@@ -10,4 +10,10 @@ The data were collected from the Web of Science core collection
 We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (may). 
 The following four figures show the word clouds of the keywords of the articles written in the four periods respectively.
 
-![wordcloud_05](./wordcloud_05.png "Word cloud of the keywords betwen '98 and 2005")
+![wordcloud_05](./img/until05_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
+<br>
+![wordcloud_05](./img/between_06_10_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
+<br>
+![wordcloud_05](./img/between_11_15_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
+<br>
+![wordcloud_05](./img/since16_wordcloud.png "Word cloud of the keywords betwen '98 and 2005")
