@@ -1,5 +1,5 @@
 # Two-Decades-of-Network-Science
-Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorsip network of network scienctists* - M. Nagy, R. Molontay (2019)
+Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorsip network of network scienctists* - R. Molontay, M. Nagy (2019)
 
 
 
