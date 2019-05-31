@@ -1,6 +1,6 @@
 **The edge list of the co-authorship network of network scientists can be found in the** ```edgelist.xlsx``` **file**
 The edge list is written in the following format:
-| **source** | **target** |
+| source | target |
 |--------|--------|
 | 0 | 1 |
 | 0 | 2 |
