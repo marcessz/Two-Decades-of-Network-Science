@@ -8,4 +8,4 @@ The edge list is written in the following format:
 |      1 |      2 |
 |      3 |      4 |
 
-Each network scientist is denoted by their ID number.
+Each network scientist is represented by their ID number.
