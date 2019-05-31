@@ -1,4 +1,4 @@
-**The edge list of the co-authorship network of network scientists can be found in the** ```edgelist.xlsx``` **file**
+**The edge list of the co-authorship network of network scientists can be found in the** ```edgelist.xlsx``` **file** <br>
 The edge list is written in the following format:
 
 | source | target |
@@ -7,3 +7,5 @@ The edge list is written in the following format:
 |      0 |      2 |
 |      1 |      2 |
 |      3 |      4 |
+
+Each network scientist is denoted by their ID number.
