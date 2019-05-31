@@ -1,1 +1,1 @@
-# Edge lis of the co-authorship network of network scientists
+**The edge list of the co-authorship network of network scientists**
