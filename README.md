@@ -15,6 +15,10 @@ Supplementary data for the paper *Two Decades of Network Science - as seen throu
 ## Source
 The data were collected from the Web of Science core collection
 
+## Data
+
+The edgelist of the constructed network can be found in ![this folder](./)
+
 ## Word clouds of the keywords
 We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (May). 
 The following four figures show the word clouds of the keywords of the articles written in the four periods respectively.
