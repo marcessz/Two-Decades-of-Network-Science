@@ -17,7 +17,7 @@ The data were collected from the Web of Science core collection
 
 ## Data
 
-The edgelist of the constructed network can be found in ![this folder](./network-edge-list)
+The edgelist of the constructed network can be found in [this folder](./network-edge-list)
 
 ## Word clouds of the keywords
 We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (May). 
