@@ -1,7 +1,16 @@
 # Two-Decades-of-Network-Science
 Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorsip network of network scienctists* - R. Molontay, M. Nagy (2019)
 
-
+## How to Cite
+```
+@inproceedings{molontay2019two,
+  title={Two Decades of Network Science - as seen through the co-authorsip network of network scienctists},
+  author={Molontay, Roland and Nagy, Marcell},
+  booktitle={2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  year={2019},
+  organization={IEEE}
+  }
+```
 
 ## Source
 The data were collected from the Web of Science core collection
