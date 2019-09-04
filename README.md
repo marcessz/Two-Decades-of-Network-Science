@@ -7,6 +7,7 @@ Supplementary data for the paper *Two Decades of Network Science - as seen throu
   title={Two Decades of Network Science - as seen through the co-authorship network of network scientists},
   author={Molontay, Roland and Nagy, Marcell},
   booktitle={2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  pages={584--588},
   year={2019},
   organization={IEEE}
   }
