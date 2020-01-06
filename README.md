@@ -1,6 +1,10 @@
 # Two-Decades-of-Network-Science
 Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorship network of network scientists* - R. Molontay, M. Nagy (2019)
 
+The paper can be found at [this arxiv link](https://arxiv.org/abs/1908.08478).
+
+__Note that there is an extended version of this work with [this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science/blob/master/README.md)__
+
 ## How to Cite
 ```
 @inproceedings{molontay2019two,
