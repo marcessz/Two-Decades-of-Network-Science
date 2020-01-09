@@ -18,11 +18,15 @@ __Note that there is an extended version of this work that can be found at [this
 ```
 
 ## Source
-The data were collected from the Web of Science core collection
+The data were collected from the Web of Science core collection. We downloaded information about the articles that cited at least one of the following papers: 
+* Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. Science, 286(5439), 509-512.
+* Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’networks. Nature, 393(6684), 440.
+* Girvan, M., & Newman, M. E. (2002). Community structure in social and biological networks. Proceedings of the national academy of sciences, 99(12), 7821-7826.
+
 
 ## Data
 
-The edgelist of the constructed network can be found in [this folder](./network-edge-list)
+The edgelist of the constructed network can be found in [this folder](./network-edge-list). Moreover, it can be also found in the [Index of Complex Network (ICON)](https://icon.colorado.edu/#!/networks), titled 'Network scientist coauthorships (2019)'.
 
 ## Word clouds of the keywords
 We divided the two decades into the following four periods: 1989-2005, 2006-2010, 2011-2015 and 2016-2019 (May). 
