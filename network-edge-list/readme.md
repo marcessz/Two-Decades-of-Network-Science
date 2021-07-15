@@ -1,4 +1,4 @@
-### __There's a newer version of this network that you can find [in this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science).__
+## __There's a newer version of this network that you can find [in this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science).__
 
 
 **The edge list of the co-authorship network of network scientists can be found in the** ```edgelist.xlsx``` **file** <br>
