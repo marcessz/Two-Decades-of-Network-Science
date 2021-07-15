@@ -3,7 +3,7 @@ Supplementary data for the paper *Two Decades of Network Science - as seen throu
 
 The paper can be found at [this arxiv link](https://arxiv.org/abs/1908.08478).
 
-__Note that there is an extended version of this work that can be found at [this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science/blob/master/README.md).__
+__Note that there is an extended version of this work that can be found at [this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science/blob/master/README.md). Moreover, you can read the paper [here](https://link.springer.com/chapter/10.1007/978-3-030-67044-3_1)__
 
 ## How to Cite
 ```
