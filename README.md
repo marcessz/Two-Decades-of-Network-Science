@@ -1,7 +1,7 @@
 # Two-Decades-of-Network-Science
 Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorship network of network scientists* - R. Molontay, M. Nagy (2019)
 
-The paper can be found at [this arxiv link](https://arxiv.org/abs/1908.08478).
+The paper can be found at [this arxiv link](https://arxiv.org/abs/1908.08478) or in the [ACM digital library](https://dl.acm.org/doi/10.1145/3341161.3343685).
 
 __Note that there is an extended version of this work that can be found at [this repository](https://github.com/marcessz/Twenty-Years-of-Network-Science/blob/master/README.md). Moreover, you can read the paper [here](https://link.springer.com/chapter/10.1007/978-3-030-67044-3_1)__
 
