@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-1908.08478-b31b1b.svg?style=flat)](https://arxiv.org/abs/1908.08478)
+
 # Two-Decades-of-Network-Science
 Supplementary data for the paper *Two Decades of Network Science - as seen through the co-authorship network of network scientists* - R. Molontay, M. Nagy (2019)
 
